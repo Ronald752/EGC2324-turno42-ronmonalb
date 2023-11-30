@@ -3,6 +3,7 @@ ALLOWED_HOSTS = ["*"]
 #b
 #c
 #d
+#e
 # Modules in use, commented modules that you won't use
 MODULES = [
     'authentication',
